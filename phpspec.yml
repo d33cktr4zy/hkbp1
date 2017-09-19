@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: hkbp
+        psr4_prefix: hkbp
+        src_path: app
